@@ -9,7 +9,7 @@
         VCC: +5VDC
         Trig : Trigger (INPUT) - Pin11
         Echo: Echo (OUTPUT) - Pin 12
-        GND: GND
+        GND: GND 
  */
  
 int trigPin = 11;    //Trig - green Jumper
